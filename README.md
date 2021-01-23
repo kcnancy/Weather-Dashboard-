@@ -68,7 +68,9 @@ To check the current weather and 5 day forecast from a city in local storage the
 
 
 
-This Weather Dashboard can be used with the following link -
+## Candidates for Future Enhancements -
+- Include state name with city name to ensure correct location. 
+
 
 
 
